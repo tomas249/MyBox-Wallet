@@ -1,0 +1,9 @@
+{
+  "rowData": [
+    { "id": "cash-eur", "name": "Cash EUR", "currency": "EUR", "balance": 0 },
+    { "id": "cash-bgn", "name": "Cash BGN", "currency": "BGN", "balance": 0 },
+    { "id": "dsk-virtual", "name": "DSK Virtual", "currency": "BGN", "balance": 398 },
+    { "id": "dsk", "name": "DSK", "currency": "BGN", "balance": 15273 },
+    { "id": "santander", "name": "Santander", "currency": "EUR", "balance": 4633 }
+  ]
+}

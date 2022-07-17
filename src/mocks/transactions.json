@@ -1,0 +1,28 @@
+{
+  "rowData": [
+    {
+      "id": "1",
+      "date": "2022-07-18",
+      "account": "dsk-wallet",
+      "amount": 20.24,
+      "description": "Buying some stuff 1",
+      "tags": ["food", "coffee"]
+    },
+    {
+      "id": "2",
+      "date": "2022-07-18",
+      "account": "dsk-wallet",
+      "amount": 201.5,
+      "description": "Buying some stuff 2",
+      "tags": ["clothes"]
+    },
+    {
+      "id": "3",
+      "date": "2022-07-18",
+      "account": "dsk",
+      "amount": 100,
+      "description": "Buying some stuff 3",
+      "tags": ["food"]
+    }
+  ]
+}
